@@ -1,0 +1,6 @@
+patchOver_SpawnGemeaterKingMinion,Any,,,SpawnActor,,,,GemeaterKingMinion
+patchOver_SpawnZeke,Any,,,SpawnRandomZeke,,,,
+patchOver_SummonBomb,Any,,,SpawnMinionThrow,10,10,,ScroungeBomb
+patchOver_SummonHorde,Any,,,SpawnMinionThrow,10,7,,SkeletonGuard
+patchOver_PoisonThrow,Any,,,Buff,10,5,curse,"ExhaustionRate +8, PoisonRate +15, HealthRate -12"
+patchOver_SpawnShop,Any,,,SpawnMinionThrow,10,1,,OldManNormal

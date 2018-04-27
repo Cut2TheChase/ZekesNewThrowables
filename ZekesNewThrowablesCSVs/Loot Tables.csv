@@ -1,0 +1,5 @@
+patchAdd_ChemistBombSet2," &Thrown_GemeaterKing, &Thrown_Mystery, &Thrown_LordHorde, &Thrown_BlastHorde",1
+patchAdd_ChemistRecipeSet0,&Thrown_AoEHeal,
+patchAdd_ChemistRecipeSet4,&Thrown_Poison,
+patchAdd_ChestNormal6,Thrown_LordHorde,
+patchAdd_ChestNormal4,Thrown_GemeaterKing,

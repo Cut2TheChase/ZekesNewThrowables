@@ -1,0 +1,7 @@
+Thrown,patchOver_Thrown_GemeaterKing,2,5,10,300,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,SpawnGemeaterKingMinion,,,1,Consumable,SourceRightHand,,,,,,,"BlastingPowder, BlastingPowder, Scales,  ShadowbornSkin, ArcaneDust, EssentialOil, Spore"
+Thrown,patchOver_Thrown_Mystery,2,5,10,200,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,SpawnZeke,,,1,Consumable,SourceRightHand,,,,,,,"BlastingPowder, AncientBones, Scales, Fungus, TornFlesh, Spore"
+Thrown,patchOver_Thrown_Poison,2,5,10,175,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,PoisonThrow,,,1,Consumable,SourceRightHand,,,,,,,"Fungus, Spore, TornFlesh, ArcaneDust"
+Thrown,patchOver_Thrown_AoEHeal,2,5,10,175,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,AoEHeal,,,1,Consumable,SourceRightHand,,,,,,,"ArcaneDust, Crystal, EssentialOil"
+Thrown,patchOver_Thrown_BlastHorde,2,5,10,200,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,SummonBomb,,,1,Consumable,SourceRightHand,,,,,,,"BlastingPowder, BlastingPowder, ClockworkGears"
+Thrown,patchOver_Thrown_LordHorde,2,5,10,250,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,SummonHorde,,,1,Consumable,SourceRightHand,,,,,,,"BlastingPowder, AncientBones, BoneMatter"
+Thrown,patchOver_Thrown_Shop,2,5,10,300,bomb,pf-firebomb-dragonbelly_flask | WeaponBase,ms-firebomb,,SpawnShop,,,1,Consumable,SourceRightHand,,,,,,,
